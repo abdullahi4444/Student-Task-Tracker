@@ -1,0 +1,40 @@
+{
+  "name": "student-task-tracker",
+  "version": "1.0.0",
+  "description": "A beautiful, modern, and fully responsive task management application built with Svelte. Stay organized and focused with this sleek productivity tool.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "svelte",
+    "task-tracker",
+    "productivity",
+    "todo-app",
+    "javascript",
+    "frontend",
+    "responsive",
+    "modern-ui"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/student-task-tracker.git"
+  },
+  "homepage": "https://your-username.github.io/student-task-tracker",
+  "bugs": {
+    "url": "https://github.com/your-username/student-task-tracker/issues"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
+    "svelte": "^5.55.4",
+    "vite": "^8.0.10"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

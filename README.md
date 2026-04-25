@@ -191,6 +191,6 @@ If you find this project helpful, please:
 
 ---
 
-**Made with ❤️ and Svelte**
+**Made with ❤️ and Svelte by : Abdullahi Abdiweli Adam**
 
 *Stay organized, stay productive!* 🚀
